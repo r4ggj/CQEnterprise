@@ -1,0 +1,64 @@
+{
+  "_comment":"企业平台编码",
+  "bussiness_platform_code":"emb1401t",
+
+  "_comment":"",
+  "app_address_url":"http://www.yj957.com/appaddress",
+
+  "_comment":"",
+  "app_address_name":"cqqy",
+
+  "_comment":"",
+  "apkType":"重庆企业",
+
+  "_comment":"默认行政区划",
+  "default_area":"重庆市",
+
+  "_comment":"默认事件名称",
+  "default_incident_name":"日常应急管理",
+
+  "_comment":"域平台编码",
+  "domain_platform_code":"tyb_domain001",
+
+  "_comment":"中心平台编码",
+  "center_platform_code":"tyb_tools001",
+
+  "_comment":"",
+  "tool_server_url":"http://192.168.0.153:8080/eop/api.htm",
+
+  "_comment":"",
+  "file_server_url":"http://192.168.0.153:8080",
+
+  "_comment":"",
+  "socket_url":"http://222.180.171.235:9088",
+
+  "_comment":"",
+  "socket_web_url":"http://222.180.171.235:9099",
+
+  "_comment":"",
+  "stun_server_url":"stun:192.168.0.220",
+
+  "_comment":"",
+  "turn_server_udp_url":"turn:192.168.0.220:3478?transport:udp",
+
+  "_comment":"",
+  "turn_server_tcp_url":"turn:192.168.0.220:3478?transport:tcp",
+
+  "_comment":"",
+  "stun_server_url2":"stun:192.168.0.220",
+
+  "_comment":"",
+  "turn_server_udp_url2":"turn:192.168.0.220:3478?transport:udp",
+
+  "_comment":"",
+  "turn_server_tcp_url2":"turn:192.168.0.220:3478?transport:tcp",
+
+  "_comment":"",
+  "stun_server_url3":"stun:192.168.0.220",
+
+  "_comment":"",
+  "turn_server_udp_url3":"turn:192.168.0.220:3478?transport:udp",
+  
+  "_comment":"",
+  "turn_server_tcp_url3":"turn:192.168.0.220:3478?transport:tcp",
+}
