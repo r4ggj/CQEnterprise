@@ -23,5 +23,8 @@ const MainScreen = () => (
 MainScreen.navigationOptions = {
   title: 'Home Screen',
 };
+MainScreen.StatusBar={
+  backgroundColor:'red'
+};
 
 export default MainScreen;

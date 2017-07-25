@@ -133,6 +133,7 @@ android {
 }
 
 dependencies {
+    compile project(':RNMaterialKit')
     compile project(':react-native-fetch-blob')
     // 支持GIF动图
     compile 'com.facebook.fresco:animated-gif:1.0.1'
